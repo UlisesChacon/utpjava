@@ -17,6 +17,7 @@ public class Semana04 {
         // TODO code application logic here
         System.out.println("Hola Mundo 123");
         System.out.println("Hola mundo x2");
+        System.out.println("Hola mundo x3");
     }
     
 }
